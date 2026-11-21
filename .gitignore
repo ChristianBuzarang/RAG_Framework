@@ -1,0 +1,16 @@
+# Virtual environment & mise
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Generated vector store & local model cache
+chroma_db/
+.cache/
+
+# Environment & OS files
+.env
+.DS_Store
