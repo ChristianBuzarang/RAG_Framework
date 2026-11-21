@@ -84,7 +84,5 @@ RAG_Framework/
 > **Tip:** Save your screenshots in an `assets/` or `screenshots/` folder in your repository (e.g., `screenshots/rag_output.png`) and update the image paths below.
 
 ### Terminal Execution & Local LLM Output
-![RAG Script Execution and LLM Response](screenshots/rag_execution_output.png)
-
-### Directory Structure & Persisted Vector Store
-![Directory Structure with Data and ChromaDB](screenshots/directory_structure.png)
+![RAG Script Execution and LLM Response](images/output_1.png)
+![RAG Script Execution and LLM Response](images/output_2.png)
